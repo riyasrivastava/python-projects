@@ -19,3 +19,8 @@ Problem Statement: Write a Python program that:
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name.
 
+   Task 3- 
+
+ 1: Check if a Number is Even or Odd
+ 2: Sum of Integers from 1 to 50 Using a Loop
+
